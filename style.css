@@ -1,1 +1,12 @@
-
+body {
+	font-family: lucida sans unicode;
+	background-color: #003;
+	color: #FFC;
+}
+h3 {
+	font-style: italic;
+}
+h1 {
+	background-color: #00001A;
+	border: 5px solid #00001A;
+}
